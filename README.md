@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center">
-  <img src="image/label.png" width="70%">
+  <img src="image/labeldog.png" width="70%">
 </div>
 ## Description
 
