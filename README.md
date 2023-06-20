@@ -102,9 +102,9 @@ labelme data_annotated/ --labels labels.txt  # specify label list with a file
 
 For more advanced usage, please refer to the examples:
 
-* [Tutorial (Single Image Example)](examples/tutorial)
-* [Semantic Segmentation Example](examples/semantic_segmentation)
-* [Instance Segmentation Example](examples/instance_segmentation)
-* [Video Annotation Example](examples/video_annotation)
+* [Tutorial (Single Image Example)](tutorial)
+* [Semantic Segmentation Example](semantic_segmentation)
+* [Instance Segmentation Example](instance_segmentation)
+* [Video Annotation Example](video_annotation)
 
 ## Thank you
